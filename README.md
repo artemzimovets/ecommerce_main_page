@@ -1,2 +1,2 @@
-<h1>HTML / CSS version of the following picture has been made </h1>
+<h1>Ecommerce landing page </h1>
 <img src="img/task.png" width="400">
